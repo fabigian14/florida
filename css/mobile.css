@@ -1,4 +1,4 @@
-@media screen and (max-width:1024px) {
+@media screen and (max-width:648px) {
 
     html {
         box-sizing: border-box;
@@ -35,6 +35,10 @@
     /* ====== MENU ====== */
     .header {
         padding: 0 0 0 1rem;
+    }
+    .comunication {
+        bottom: 1.5rem;
+        right: 1rem;
     }
 
     .menu {
